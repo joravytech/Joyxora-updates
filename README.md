@@ -1,2 +1,3 @@
-# Joyxora-updates
-Joyxora by Joravy Tech: Encrypt or decrypt any file or app, chat securely with XoraChat, and explore with our AI assistant XoraCat.
+## 🚀 Project Update – September 2025
+We’re preparing a presale and waitlist for Joyxora (coming November). 
+Stay tuned for early-access details!
